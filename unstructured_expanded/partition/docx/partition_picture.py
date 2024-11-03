@@ -4,8 +4,7 @@ from docx.text.paragraph import Paragraph
 from unstructured.documents.elements import Image
 from unstructured.partition.docx import PicturePartitionerT, DocxPartitionerOptions
 
-from unstructured_expanded.shared.models import ExpandedImage
-from unstructured_expanded.shared.tools import extract_desc
+from unstructured_expanded.tools import create_image, extract_desc
 
 
 class DocxPicturePartitioner(PicturePartitionerT):
@@ -35,7 +34,7 @@ class DocxPicturePartitioner(PicturePartitionerT):
             r_id = blip.attrib['{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed']
 
             # Yield an image with the blob and descriptive text word generates
-            yield ExpandedImage.load(
+            yield create_image(
                 image_bytes=opts.document.part.related_parts[r_id].blob,
 
                 # For docx, the base tag is pic, i.e. pic:nvPicPr. For pptx, it's p:nvPicPr

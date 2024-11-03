@@ -1,4 +1,7 @@
+import base64
 from typing import Any
+
+from unstructured.documents.elements import Image, ElementMetadata
 
 
 def extract_desc(
@@ -17,3 +20,17 @@ def extract_desc(
             desc = desc.replace('\n\nDescription automatically generated', '')
 
     return desc
+
+
+def create_image(
+        image_bytes: bytes,
+        desc: str,
+) -> Image:
+    image_b64: str = base64.b64encode(image_bytes).decode('utf-8')
+
+    return Image(
+        text=desc,
+        metadata=ElementMetadata(
+            image_base64=image_b64
+        )
+    )

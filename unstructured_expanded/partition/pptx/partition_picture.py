@@ -6,8 +6,7 @@ from unstructured.documents.elements import Element
 from unstructured.partition.pptx import AbstractPicturePartitioner, PptxPartitionerOptions
 from unstructured.utils import lazyproperty
 
-from unstructured_expanded.shared.models import ExpandedImage
-from unstructured_expanded.shared.tools import extract_desc
+from unstructured_expanded.tools import extract_desc, create_image
 
 
 class PptxExpandedPartitionerOptions(PptxPartitionerOptions):
@@ -44,7 +43,7 @@ class PptxPicturePartitioner(AbstractPicturePartitioner):
             min_id = slide_id
 
             # Yield an image with the blob and descriptive text word generates
-            yield ExpandedImage.load(
+            yield create_image(
                 image_bytes=picture.image.blob,
                 desc=extract_desc(blip, base_tag="p", namespaces=cls.namespaces)
             )
