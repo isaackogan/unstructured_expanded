@@ -1,2 +1,5 @@
 .idea
 .venv
+scripts
+dist
+*.egg-info

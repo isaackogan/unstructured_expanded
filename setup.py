@@ -7,7 +7,7 @@ manifest: dict = {
     "name": "unstructured_expanded",
     "license": "MIT",
     "author": "Isaac Kogan",
-    "version": "6.2.0",
+    "version": "0.16.4",
     "email": "info@isaackogan.com"
 }
 
