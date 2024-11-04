@@ -1,6 +1,9 @@
 import base64
+import io
 from typing import Any
 
+from PIL import Image
+from PIL.Image import Resampling
 from unstructured.documents.elements import Image, ElementMetadata
 
 
@@ -26,7 +29,7 @@ def create_image(
         image_bytes: bytes,
         desc: str,
 ) -> Image:
-    image_b64: str = base64.b64encode(image_bytes).decode('utf-8')
+    image_b64: str = downscale_and_compress_image(image_bytes)
 
     return Image(
         text=desc,
@@ -34,3 +37,44 @@ def create_image(
             image_base64=image_b64
         )
     )
+
+
+def downscale_and_compress_image(image_bytes: bytes) -> str:
+    """
+    Downscale and compress an image to a maximum width or height of 1024 pixels, and convert to base64
+
+    :param image_bytes: The image bytes
+    :return: Base64 encoded image
+
+    """
+
+    with Image.open(io.BytesIO(image_bytes)) as img:
+        # Get current dimensions
+        width, height = img.size
+
+        # Determine the scaling factor, keeping the aspect ratio
+        if width > height:
+            # Width is longer, scale based on width
+            scale = 1024 / width
+        else:
+            # Height is longer, scale based on height
+            scale = 1024 / height
+
+        # Calculate new dimensions
+        new_width = int(width * scale)
+        new_height = int(height * scale)
+
+        # Resize the image
+        resized_img = img.resize((new_width, new_height), Resampling.LANCZOS)
+
+        # Convert to JPEG for compression
+        with io.BytesIO() as output:
+            # Save image to the BytesIO object, with JPEG format and reduced quality
+            resized_img.save(output, format='JPEG', quality=85)
+            # Retrieve the compressed image data
+            compressed_image_bytes = output.getvalue()
+
+            # Encode to base64
+            base64_encoded = base64.b64encode(compressed_image_bytes)
+            # Convert bytes to string
+            return base64_encoded.decode('utf-8')
