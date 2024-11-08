@@ -2,7 +2,7 @@ import base64
 import io
 from typing import Any
 
-from PIL import Image
+from PIL.Image import open as open_image
 from PIL.Image import Resampling
 from unstructured.documents.elements import Image, ElementMetadata
 
@@ -48,7 +48,11 @@ def downscale_and_compress_image(image_bytes: bytes) -> str:
 
     """
 
-    with Image.open(io.BytesIO(image_bytes)) as img:
+    with open_image(io.BytesIO(image_bytes)) as img:
+
+        if img.mode != 'RGB':
+            img = img.convert('RGB')
+
         # Get current dimensions
         width, height = img.size
 
