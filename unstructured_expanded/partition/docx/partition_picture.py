@@ -33,9 +33,13 @@ class DocxPicturePartitioner(PicturePartitionerT):
             # Extract the relationship ID
             r_id = blip.attrib['{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed']
 
+            # Get the image mimetype
+            image_type = opts.document.part.related_parts[r_id].content_type
+
             # Yield an image with the blob and descriptive text word generates
             yield create_image(
                 image_bytes=opts.document.part.related_parts[r_id].blob,
+                image_mimetype=image_type,
 
                 # For docx, the base tag is pic, i.e. pic:nvPicPr. For pptx, it's p:nvPicPr
                 # As a result, namespaces also differ

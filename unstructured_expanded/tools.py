@@ -27,6 +27,7 @@ def extract_desc(
 
 def create_image(
         image_bytes: bytes,
+        image_mimetype: str,
         desc: str,
 ) -> Image:
     image_b64: str = downscale_and_compress_image(image_bytes)
@@ -34,7 +35,8 @@ def create_image(
     return Image(
         text=desc,
         metadata=ElementMetadata(
-            image_base64=image_b64
+            image_base64=image_b64,
+            image_mime_type=image_mimetype
         )
     )
 
