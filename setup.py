@@ -7,7 +7,7 @@ manifest: dict = {
     "name": "unstructured_expanded",
     "license": "MIT",
     "author": "Isaac Kogan",
-    "version": "0.16.5",
+    "version": "0.16.11",
     "email": "info@isaackogan.com"
 }
 
@@ -32,7 +32,7 @@ if __name__ == '__main__':
             "unstructured"
         ],
         install_requires=[
-            "unstructured>=0.16.4",
+            "unstructured>=0.16.11",
         ],
         classifiers=[
             "Development Status :: 4 - Beta",
