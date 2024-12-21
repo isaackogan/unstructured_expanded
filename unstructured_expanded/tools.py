@@ -2,8 +2,8 @@ import base64
 import io
 from typing import Any
 
-from PIL.Image import open as open_image
 from PIL.Image import Resampling
+from PIL.Image import open as open_image
 from unstructured.documents.elements import Image, ElementMetadata
 
 
@@ -13,17 +13,22 @@ def extract_desc(
         namespaces: dict[str, str]
 ) -> str:
     blip_pic = blip.getparent().getparent()
-    desc: str = "No Description Available"
+    no_photo_desc: str = "No Description Available"
 
     nv_pic_pr = blip_pic.find(f'{base_tag}:nvPicPr', namespaces=namespaces)
-    if nv_pic_pr is not None:
-        c_nv_pr = nv_pic_pr.find(f'{base_tag}:cNvPr', namespaces=namespaces)
-        if c_nv_pr is not None:
-            desc = c_nv_pr.attrib.get("descr")
-            if bool(desc):
-                desc = desc.replace('\n\nDescription automatically generated', '')
+    if nv_pic_pr is None:
+        return no_photo_desc
 
-    return desc
+    c_nv_pr = nv_pic_pr.find(f'{base_tag}:cNvPr', namespaces=namespaces)
+    if c_nv_pr is None:
+        return no_photo_desc
+
+    descr_el = c_nv_pr.attrib.get("descr")
+    if descr_el is None:
+        return no_photo_desc
+
+    # Return the auto-generated desc
+    return descr_el.replace('\n\nDescription automatically generated', '')
 
 
 def create_image(

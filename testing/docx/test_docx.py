@@ -3,7 +3,7 @@ import json
 from unstructured_expanded.partition.docx import partition_docx
 
 elements = partition_docx(
-    file=open("Syllabus_HUMA.docx", "rb"),
+    file=open("Leonie.docx", "rb"),
 )
 
 data = []
