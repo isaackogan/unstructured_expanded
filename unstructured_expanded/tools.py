@@ -20,7 +20,8 @@ def extract_desc(
         c_nv_pr = nv_pic_pr.find(f'{base_tag}:cNvPr', namespaces=namespaces)
         if c_nv_pr is not None:
             desc = c_nv_pr.attrib.get("descr")
-            desc = desc.replace('\n\nDescription automatically generated', '')
+            if bool(desc):
+                desc = desc.replace('\n\nDescription automatically generated', '')
 
     return desc
 
