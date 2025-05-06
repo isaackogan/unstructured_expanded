@@ -13,7 +13,7 @@
         }
     },
     {
-        "type": "Title",
+        "type": "UncategorizedText",
         "element_id": "9c24c6b7d8ca8b6047fa5389c5183d3b",
         "text": "Main document, English",
         "metadata": {
@@ -36,7 +36,7 @@
         }
     },
     {
-        "type": "Title",
+        "type": "UncategorizedText",
         "element_id": "0ad1676cc68d0b292cc3075abb1d8fe3",
         "text": "Introduction:",
         "metadata": {
@@ -64,8 +64,7 @@
             "languages": [
                 "eng"
             ],
-            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-            "parent_id": "0ad1676cc68d0b292cc3075abb1d8fe3"
+            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
     },
     {
@@ -1142,7 +1141,7 @@
         }
     },
     {
-        "type": "Title",
+        "type": "UncategorizedText",
         "element_id": "12c5273a1fcf22b14bc156cbb0e7942d",
         "text": "GENERAL ADMISSIONS & APPLICATION QUESTIONS",
         "metadata": {
@@ -1165,7 +1164,8 @@
             "languages": [
                 "eng"
             ],
-            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "parent_id": "51ef0705c61a5ce97da4159be4e33c08"
         }
     },
     {
@@ -3633,7 +3633,7 @@
         }
     },
     {
-        "type": "Title",
+        "type": "UncategorizedText",
         "element_id": "4e752b6a0a6e83b3f504c1a9d5e4dee0",
         "text": "York University Office of Admissions",
         "metadata": {
@@ -3642,7 +3642,8 @@
             "languages": [
                 "eng"
             ],
-            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "parent_id": "3f2f830dae227bfe717236aa5597d760"
         }
     },
     {
@@ -3656,11 +3657,11 @@
                 "eng"
             ],
             "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-            "parent_id": "4e752b6a0a6e83b3f504c1a9d5e4dee0"
+            "parent_id": "3f2f830dae227bfe717236aa5597d760"
         }
     },
     {
-        "type": "Title",
+        "type": "UncategorizedText",
         "element_id": "7684bb498c6426f17a5b38f1c9a4a02e",
         "text": "Toronto, ON M3J 1P3 CANADA",
         "metadata": {
@@ -3669,7 +3670,8 @@
             "languages": [
                 "eng"
             ],
-            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "parent_id": "3f2f830dae227bfe717236aa5597d760"
         }
     },
     {
@@ -4001,7 +4003,7 @@
         }
     },
     {
-        "type": "Title",
+        "type": "UncategorizedText",
         "element_id": "fa18fab1aa8aeac1f737ff3a80418ebd",
         "text": "QUESTIONS SPECIFIC TO INTERNATIONAL STUDENTS",
         "metadata": {
@@ -4710,7 +4712,7 @@
         }
     },
     {
-        "type": "Title",
+        "type": "UncategorizedText",
         "element_id": "e8d7c872e26aaf643d0ab255c69f9db0",
         "text": "GLENDON PROGRAM DESCRIPTIONS",
         "metadata": {
@@ -4729,7 +4731,8 @@
             "languages": [
                 "eng"
             ],
-            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "parent_id": "e42128ca9ce6b4002a539a10e6ef60b4"
         }
     },
     {
@@ -6103,7 +6106,7 @@
         }
     },
     {
-        "type": "Title",
+        "type": "UncategorizedText",
         "element_id": "c639161d58f83f0d26293d7f12aa9ac4",
         "text": "In conclusion, why Glendon?",
         "metadata": {
@@ -6125,8 +6128,7 @@
             "languages": [
                 "eng"
             ],
-            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-            "parent_id": "c639161d58f83f0d26293d7f12aa9ac4"
+            "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
     },
     {

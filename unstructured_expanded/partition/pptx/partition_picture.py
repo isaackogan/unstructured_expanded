@@ -43,7 +43,7 @@ class PptxPicturePartitioner(AbstractPicturePartitioner):
             min_id = slide_id
 
             # Get the image mimetype
-            image_mimetype = opts.document.slides[slide_id].part.related_parts[r_id].content_type
+            image_mimetype = opts.document.slides[slide_id].part.related_part(r_id).content_type
 
             # Yield an image with the blob and descriptive text word generates
             yield create_image(

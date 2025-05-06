@@ -1066,24 +1066,23 @@
         "element_id": "1fdbc86f01193f585094acc1513d3bc6",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.4958544075489044,
             "coordinates": {
                 "points": [
                     [
-                        1496.0794677734375,
-                        2112.418212890625
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.0794677734375,
-                        2157.625
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.2598876953125,
-                        2157.625
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.2598876953125,
-                        2112.418212890625
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -1784,24 +1783,23 @@
         "element_id": "a78481f2aa3fb83f09a61642e551eb35",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.49142488837242126,
             "coordinates": {
                 "points": [
                     [
-                        1496.0047607421875,
-                        2112.04296875
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.0047607421875,
-                        2157.706787109375
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.3299560546875,
-                        2157.706787109375
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.3299560546875,
-                        2112.04296875
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -2223,28 +2221,27 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "fa529e119beac70ec5a6e08398fd13cf",
-        "text": "Relevance of ideas and arguments",
+        "type": "NarrativeText",
+        "element_id": "f1f7b322d97ba445548aac9b137897e1",
+        "text": "Relevance of ideas and arguments Quality of critical analysis Capacity to consider a question from multiple perspectives (most important)",
         "metadata": {
-            "detection_class_prob": 0.8245640993118286,
             "coordinates": {
                 "points": [
                     [
-                        245.60157775878906,
-                        1482.263427734375
+                        301.0,
+                        1489.0
                     ],
                     [
-                        245.60157775878906,
-                        1520.4437255859375
+                        301.0,
+                        1606.0
                     ],
                     [
-                        758.0137777777778,
-                        1520.4437255859375
+                        1294.0,
+                        1606.0
                     ],
                     [
-                        758.0137777777778,
-                        1482.263427734375
+                        1294.0,
+                        1489.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -2255,87 +2252,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 5,
-            "parent_id": "a78481f2aa3fb83f09a61642e551eb35"
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "a957ad1ed8b185e93639487218cf9814",
-        "text": "Quality of critical analysis",
-        "metadata": {
-            "detection_class_prob": 0.8426178097724915,
-            "coordinates": {
-                "points": [
-                    [
-                        246.8351287841797,
-                        1526.0972900390625
-                    ],
-                    [
-                        246.8351287841797,
-                        1562.2455555555555
-                    ],
-                    [
-                        636.6804444444444,
-                        1562.2455555555555
-                    ],
-                    [
-                        636.6804444444444,
-                        1526.0972900390625
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 5,
-            "parent_id": "a78481f2aa3fb83f09a61642e551eb35"
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "25883667b48f6c20931b8d31bef7b10a",
-        "text": "Capacity to consider a question from multiple perspectives (most important)",
-        "metadata": {
-            "detection_class_prob": 0.8391826152801514,
-            "coordinates": {
-                "points": [
-                    [
-                        237.0875244140625,
-                        1569.955810546875
-                    ],
-                    [
-                        237.0875244140625,
-                        1606.2455555555553
-                    ],
-                    [
-                        1314.2082222222223,
-                        1606.2455555555553
-                    ],
-                    [
-                        1314.2082222222223,
-                        1569.955810546875
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 5,
-            "parent_id": "a78481f2aa3fb83f09a61642e551eb35"
+            "page_number": 5
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "4ab8644362c5e3e707bcba81c69ab56b",
+        "element_id": "3fc7051f6729eec4a5bdcd47adf2bc99",
         "text": "The level of assessment rigour will increase slightly during the semester.",
         "metadata": {
             "detection_class_prob": 0.8528292775154114,
@@ -2366,13 +2288,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 5,
-            "parent_id": "a78481f2aa3fb83f09a61642e551eb35"
+            "page_number": 5
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "8a616655f96223147d7d38db9cb32605",
+        "element_id": "232b7d91ce03ec81bec443cfc6af10ec",
         "text": "Note that inappropriate behaviour will lead to subtractive grading (examples of inappropriate behaviour: giving everyone a 10 or a 4 in peer evaluations, being uncollaborative, failing to participate in the discussion, arriving late for the discussion, etc.)",
         "metadata": {
             "detection_class_prob": 0.9324439764022827,
@@ -2403,13 +2324,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 5,
-            "parent_id": "a78481f2aa3fb83f09a61642e551eb35"
+            "page_number": 5
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "e8e6b668c0c75974c76c671388b90235",
+        "element_id": "c42fcec8fda4409d8e5d645f78a91f6a",
         "text": "Due date: Every week shortly after the end of the course.",
         "metadata": {
             "detection_class_prob": 0.8250539898872375,
@@ -2440,33 +2360,31 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 5,
-            "parent_id": "a78481f2aa3fb83f09a61642e551eb35"
+            "page_number": 5
         }
     },
     {
         "type": "Title",
-        "element_id": "1d80cf0dc540f06b111e3aed67e9e7c1",
+        "element_id": "5ea563754c3b3703f89e12c3088be0fe",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.6400117874145508,
             "coordinates": {
                 "points": [
                     [
-                        1496.3128662109375,
-                        2111.68408203125
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.3128662109375,
-                        2158.196044921875
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.6015625,
-                        2158.196044921875
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.6015625,
-                        2111.68408203125
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -2886,28 +2804,27 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "79caa21d34ee9e6325433f8716f6806d",
+        "type": "Title",
+        "element_id": "60065452fed8382965b838e0fe87b3d1",
         "text": "Critical assessment",
         "metadata": {
-            "detection_class_prob": 0.8128647208213806,
             "coordinates": {
                 "points": [
                     [
-                        246.69046020507812,
-                        1034.6328125
+                        301.0,
+                        1038.0
                     ],
                     [
-                        246.69046020507812,
-                        1068.4405517578125
+                        301.0,
+                        1061.0
                     ],
                     [
-                        562.5971111111111,
-                        1068.4405517578125
+                        545.0,
+                        1061.0
                     ],
                     [
-                        562.5971111111111,
-                        1034.6328125
+                        545.0,
+                        1038.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -2923,7 +2840,7 @@
     },
     {
         "type": "NarrativeText",
-        "element_id": "2a0f51f2318d22add335421c7d0940c0",
+        "element_id": "a8aba9eedda1aba732e98fc80abc7ef2",
         "text": "Requirements for the Scholarly Article Review",
         "metadata": {
             "detection_class_prob": 0.8725330829620361,
@@ -2954,12 +2871,13 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 6
+            "page_number": 6,
+            "parent_id": "60065452fed8382965b838e0fe87b3d1"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "0e110ee648908bd3384895b64bafaaa2",
+        "element_id": "5f2ee1c03efa7eda97ec1a0a0c253dbe",
         "text": "The title page includes the paper\u2019s title, student name, course number and title, instructor, date and word count.",
         "metadata": {
             "detection_class_prob": 0.9198599457740784,
@@ -2990,12 +2908,13 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 6
+            "page_number": 6,
+            "parent_id": "60065452fed8382965b838e0fe87b3d1"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "8b0fdc8d42847121ef00155351e6e842",
+        "element_id": "576ac6c4c6473b5fa5fcb83dd5d5d135",
         "text": "The paper title must follow the following format: \u201cReview of [title of article] by [author of article]\u201d",
         "metadata": {
             "detection_class_prob": 0.91657954454422,
@@ -3026,12 +2945,13 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 6
+            "page_number": 6,
+            "parent_id": "60065452fed8382965b838e0fe87b3d1"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "15f0929e1e0ccf8a3f0542bcb533e796",
+        "element_id": "b93bb0cc1227a35775e1e450d4a4a3e1",
         "text": "The summary must include the article\u2019s central claims (thesis or theses) and supporting arguments.",
         "metadata": {
             "detection_class_prob": 0.922447919845581,
@@ -3062,12 +2982,13 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 6
+            "page_number": 6,
+            "parent_id": "60065452fed8382965b838e0fe87b3d1"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "52622526ef77426ee924fa398d5df12d",
+        "element_id": "9e3da7d3e36957eb394f257b4bff8e5f",
         "text": "The points of interest are elements you intend to consider for further inquiry in your first essay.",
         "metadata": {
             "detection_class_prob": 0.9182097911834717,
@@ -3098,12 +3019,13 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 6
+            "page_number": 6,
+            "parent_id": "60065452fed8382965b838e0fe87b3d1"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "cf0f86236abc8cae53e9884f3c9bf4f7",
+        "element_id": "b1d961e88fa8e0f4774f1463cb53b641",
         "text": "The critical assessment consists of considerations that go beyond the reviewed article\u2019s arguments. This can take many forms, e.g. considering the soundness or completeness of the arguments (anything missing? any biases or omissions? any additional reasons to support the author\u2019s view?), linking to prior \u2013 published \u2013 knowledge, etc. Note: Always opt for \u201csubstantiated\u201d rather than \u201csubjective\u201d critical assertions. The reasons why you believe anything are more important than the claims (or assertions) you make.",
         "metadata": {
             "detection_class_prob": 0.9523348212242126,
@@ -3134,12 +3056,13 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 6
+            "page_number": 6,
+            "parent_id": "60065452fed8382965b838e0fe87b3d1"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "053e89bd84bf878cf997abd78e23d907",
+        "element_id": "2c890320baa722929c9f7507337b9d13",
         "text": "The summary (i.e. the main claims and arguments) forms the bulk of the article review. The critical assessment should take up no more than a short paragraph each.",
         "metadata": {
             "detection_class_prob": 0.91552734375,
@@ -3170,12 +3093,13 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 6
+            "page_number": 6,
+            "parent_id": "60065452fed8382965b838e0fe87b3d1"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "f9e0d8483509bd79c64f6a8233392b3a",
+        "element_id": "fa07333053a26ada024fd106a9aad472",
         "text": "The Scholarly Article Review should have 700 words \u00b1 10% (please provide word count).",
         "metadata": {
             "detection_class_prob": 0.8342822790145874,
@@ -3206,32 +3130,32 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 6
+            "page_number": 6,
+            "parent_id": "60065452fed8382965b838e0fe87b3d1"
         }
     },
     {
         "type": "Title",
-        "element_id": "f4a355826e8d294a18f091cb09328b4f",
+        "element_id": "7cc8bccdd02f577412110ce01374649b",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.571886420249939,
             "coordinates": {
                 "points": [
                     [
-                        1496.175537109375,
-                        2112.975830078125
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.175537109375,
-                        2157.5146484375
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.5552978515625,
-                        2157.5146484375
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.5552978515625,
-                        2112.975830078125
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -3279,7 +3203,7 @@
                 "eng"
             ],
             "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "parent_id": "7cc8bccdd02f577412110ce01374649b"
         }
     },
     {
@@ -3316,7 +3240,7 @@
                 "eng"
             ],
             "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "parent_id": "7cc8bccdd02f577412110ce01374649b"
         }
     },
     {
@@ -3353,32 +3277,31 @@
                 "eng"
             ],
             "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "parent_id": "7cc8bccdd02f577412110ce01374649b"
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "e43602312b67ba2a47c8ca6e5c8cbd5f",
-        "text": "Compliance with all required elements",
+        "type": "Image",
+        "element_id": "e53d08ff932797c82f8068446fc45aa7",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.8553731441497803,
             "coordinates": {
                 "points": [
                     [
-                        244.41824340820312,
-                        456.86578369140625
+                        250.0,
+                        471.38888888888897
                     ],
                     [
-                        244.41824340820312,
-                        493.36590576171875
+                        250.0,
+                        485.2777777777779
                     ],
                     [
-                        810.0137777777778,
-                        493.36590576171875
+                        259.30555555555554,
+                        485.2777777777779
                     ],
                     [
-                        810.0137777777778,
-                        456.86578369140625
+                        259.30555555555554,
+                        471.38888888888897
                     ]
                 ],
                 "system": "PixelSpace",
@@ -3390,32 +3313,32 @@
                 "eng"
             ],
             "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDttS17WPB3jCWTUp5LrR72QtHkk+UCeijtiuq/4TXw7/0E4vyP+FcS+m3Hjnx7fQX9xssdNlZBEp5KhiOPrjmu6/4RDQP+gXB+v+NZR5ne2x7WMjhoRpqsnz2V+WyXlv1tvY//2Q==",
+            "image_mime_type": "image/jpeg"
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "3f1d49696fb4559cbdc14faf31d7898c",
-        "text": "Originality and relevance of the points of interest and the critical assessment",
+        "type": "Image",
+        "element_id": "77ffae1f8a6b37751c55c2a4290f6b9c",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.8470848202705383,
             "coordinates": {
                 "points": [
                     [
-                        246.6031494140625,
-                        500.87677001953125
+                        250.0,
+                        515.2777777777777
                     ],
                     [
-                        246.6031494140625,
-                        537.5662841796875
+                        250.0,
+                        529.3055555555554
                     ],
                     [
-                        1306.2082222222223,
-                        537.5662841796875
+                        259.30555555555554,
+                        529.3055555555554
                     ],
                     [
-                        1306.2082222222223,
-                        500.87677001953125
+                        259.30555555555554,
+                        515.2777777777777
                     ]
                 ],
                 "system": "PixelSpace",
@@ -3427,32 +3350,32 @@
                 "eng"
             ],
             "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDttS17WPB3jCWTUp5LrR72QtHkk+UCeijtiuq/4TXw7/0E4vyP+FcS+m3Hjnx7fQX9xssdNlZBEp5KhiOPrjmu6/4RDQP+gXB+v+NZR5ne2x7WMjhoRpqsnz2V+WyXlv1tvY//2Q==",
+            "image_mime_type": "image/jpeg"
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "19f7fabe3d07a73078ba7fc0bc039c3a",
-        "text": "Quality of the critical assessment",
+        "type": "UncategorizedText",
+        "element_id": "bb4f61db6433cdc543c84540effc4c10",
+        "text": "Compliance with all required elements Originality and relevance of the points of interest and the critical assessment Quality of the critical assessment",
         "metadata": {
-            "detection_class_prob": 0.8391543626785278,
             "coordinates": {
                 "points": [
                     [
-                        245.55970764160156,
-                        545.6506958007812
+                        301.0,
+                        462.0
                     ],
                     [
-                        245.55970764160156,
-                        581.6497802734375
+                        301.0,
+                        580.0
                     ],
                     [
-                        736.0137777777778,
-                        581.6497802734375
+                        1297.0,
+                        580.0
                     ],
                     [
-                        736.0137777777778,
-                        545.6506958007812
+                        1297.0,
+                        462.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -3463,13 +3386,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "c4eecb3246f0ad387e78187f2e2a12ca",
+        "element_id": "72435a0f12b09c619ea509f0a5d77796",
         "text": "First Essay",
         "metadata": {
             "detection_class_prob": 0.6209171414375305,
@@ -3500,13 +3422,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "b669b076cee6cc1f8aa00380e018f329",
+        "element_id": "4f01c7251710232c611cd6aca9cdda49",
         "text": "The First Essay is an opportunity for students to deepen their understanding of any course topic (module) covered in the fall half of the semester (i.e., until December 1). Students can choose whatever topic they prefer and explore it in whichever direction they wish as long as it is a Canadian topic and relates to a fall topic. Any deviation from this instruction must be discussed with the instructor, or the essay will receive a 0.",
         "metadata": {
             "detection_class_prob": 0.9487706422805786,
@@ -3537,13 +3458,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "b4430beda5684a58b4301e2ccbec6c09",
+        "element_id": "1af08a003e75c9acf802c07a157154ae",
         "text": "Elements of the First Essay",
         "metadata": {
             "detection_class_prob": 0.822939932346344,
@@ -3574,13 +3494,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "4e4faeda1553c27e98837e9dddcacf36",
+        "element_id": "b5580ad48e06bf6f7c56c1a6c18c2953",
         "text": "The essay will comprise the following elements:",
         "metadata": {
             "detection_class_prob": 0.853977382183075,
@@ -3611,13 +3530,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "ListItem",
-        "element_id": "99b13aa73c3da96f48f19df7a008646e",
+        "element_id": "3c0eeda7f453c4e4669c75536562a6cf",
         "text": "Title page",
         "metadata": {
             "detection_class_prob": 0.8122848272323608,
@@ -3648,13 +3566,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "ListItem",
-        "element_id": "c8cd5eb0e0b9e3dc19280ae580a48f71",
+        "element_id": "c76c4b67b18d430aae2ebbbe38711504",
         "text": "Introduction \u2013 Body \u2013 Conclusion",
         "metadata": {
             "detection_class_prob": 0.8169652819633484,
@@ -3685,33 +3602,66 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "4b77e0ad377fa350cccb6e667c241e75",
-        "text": "References to scholarly articles",
+        "type": "NarrativeText",
+        "element_id": "39d92fb4b0777772a8317ca020ab7977",
+        "text": ">\u00bb References to scholarly articles",
         "metadata": {
-            "detection_class_prob": 0.8170933127403259,
             "coordinates": {
                 "points": [
                     [
-                        243.53916931152344,
-                        1193.1392822265625
+                        251.0,
+                        1197.0
                     ],
                     [
-                        243.53916931152344,
-                        1227.7950439453125
+                        251.0,
+                        1227.0
                     ],
                     [
-                        708.6804444444443,
-                        1227.7950439453125
+                        699.0,
+                        1227.0
                     ],
                     [
-                        708.6804444444443,
-                        1193.1392822265625
+                        699.0,
+                        1197.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "02f7f94a76c3c5903f868a77593f5b8b",
+        "text": "",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        250.0,
+                        1205.9722222222222
+                    ],
+                    [
+                        250.0,
+                        1220.0
+                    ],
+                    [
+                        259.30555555555554,
+                        1220.0
+                    ],
+                    [
+                        259.30555555555554,
+                        1205.9722222222222
                     ]
                 ],
                 "system": "PixelSpace",
@@ -3723,12 +3673,13 @@
                 "eng"
             ],
             "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDrNZudQ8CeMpNTMjT6bqMrOyk9MnJH4Z49sV1H/CxvDn/P23/fs1y/9kTeM/H9+uoz/wCh6fKyLEpPKhiAPbPevQP+Ed0b/oG23/fsVlHm1tse3jHh4xpqum52V7ael9Hd2P/Z",
+            "image_mime_type": "image/jpeg"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "6ba8aa7c1d9056d944f07c54f844f078",
+        "element_id": "d1c8c1a84ec38080dcf0034d6655ee1f",
         "text": "Bibliography and in-text citation",
         "metadata": {
             "detection_class_prob": 0.8205816745758057,
@@ -3759,13 +3710,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "ListItem",
-        "element_id": "6534a995d7058b8204990200b305249a",
+        "element_id": "89e4fb2f377cb118e486f92dca9c5f13",
         "text": "Page numbering",
         "metadata": {
             "detection_class_prob": 0.815887451171875,
@@ -3796,13 +3746,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "46e7512c43bd8a0de30c2bb8e6643cda",
+        "element_id": "73c5241e84311e0a3e86eb2137982ffa",
         "text": "Requirements for the First Essay",
         "metadata": {
             "detection_class_prob": 0.8459844589233398,
@@ -3833,13 +3782,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "ListItem",
-        "element_id": "b5958be2dd61ef0ec97912e2dc8221b0",
+        "element_id": "1e1fc3e0e1549a5d73f0627af5358b4c",
         "text": "The title page includes the paper\u2019s title, student name, course number and title, instructor, date and word count.",
         "metadata": {
             "detection_class_prob": 0.9246532320976257,
@@ -3870,13 +3818,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "ListItem",
-        "element_id": "8ef78baad9e4f888981d49a72ad681f1",
+        "element_id": "6c9f2519fd38f752b63a8ec7060630fd",
         "text": "The first essay will have a clearly identifiable introduction, body, and conclusion.",
         "metadata": {
             "detection_class_prob": 0.8494649529457092,
@@ -3907,13 +3854,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 7,
-            "parent_id": "f4a355826e8d294a18f091cb09328b4f"
+            "page_number": 7
         }
     },
     {
         "type": "ListItem",
-        "element_id": "e7207e97cd2173051eaa9bcae4901e8c",
+        "element_id": "0e418b4a77a5522382b20dab761d4b2f",
         "text": "The introduction has three parts: 1) It starts with a hook, i.e. a sentence or two on why this thesis matters (why should the reader care about this issue?) and some background information. 2) It states a clear thesis (or a strong claim) that must be supported by arguments in the body. 3) It briefly maps the essay structure (e.g. \u201cto support this claim, the paper will consider x, y, and z\u201d).",
         "metadata": {
             "detection_class_prob": 0.9499452114105225,
@@ -3949,7 +3895,7 @@
     },
     {
         "type": "ListItem",
-        "element_id": "23ed16571cf023e152d2a788550fdcc8",
+        "element_id": "efadb3eb529a267bf48c0c59f3972341",
         "text": "The body comprises paragraphs, each corresponding roughly to an idea or argument supporting your thesis. Ideally, a paragraph presents the argument, explains it, and provides an example (or a quote).",
         "metadata": {
             "detection_class_prob": 0.9347742795944214,
@@ -3985,7 +3931,7 @@
     },
     {
         "type": "ListItem",
-        "element_id": "e6e310980497cf1387698573ca12036f",
+        "element_id": "478e162278ad6c2c286e588d42c583a6",
         "text": "The conclusion will be short and will have no new information. It will summarize the arguments supporting the thesis. It can end with one sentence that goes beyond your thesis",
         "metadata": {
             "detection_class_prob": 0.9255201816558838,
@@ -4021,27 +3967,26 @@
     },
     {
         "type": "Title",
-        "element_id": "4cb387d0ed85d3842237f73a737cd66b",
+        "element_id": "85031a283e18d22ffa09928988847241",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.6289541721343994,
             "coordinates": {
                 "points": [
                     [
-                        1496.15576171875,
-                        2111.373291015625
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.15576171875,
-                        2158.228759765625
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.1993408203125,
-                        2158.228759765625
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.1993408203125,
-                        2111.373291015625
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -4089,7 +4034,7 @@
                 "eng"
             ],
             "page_number": 8,
-            "parent_id": "4cb387d0ed85d3842237f73a737cd66b"
+            "parent_id": "85031a283e18d22ffa09928988847241"
         }
     },
     {
@@ -4126,7 +4071,7 @@
                 "eng"
             ],
             "page_number": 8,
-            "parent_id": "4cb387d0ed85d3842237f73a737cd66b"
+            "parent_id": "85031a283e18d22ffa09928988847241"
         }
     },
     {
@@ -4492,28 +4437,64 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "77fda8da241eba1bd5232f22c9fbdd3b",
-        "text": "Relevance and originality of the leading thesis",
+        "type": "Image",
+        "element_id": "787571d868e845c5f48b2f3bfb0d094a",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.8604437708854675,
             "coordinates": {
                 "points": [
                     [
-                        248.7578582763672,
-                        1337.5802001953125
+                        250.0,
+                        1354.0280555555555
                     ],
                     [
-                        248.7578582763672,
-                        1376.07373046875
+                        250.0,
+                        1368.0555555555554
                     ],
                     [
-                        908.0693333333334,
-                        1376.07373046875
+                        259.30555555555554,
+                        1368.0555555555554
                     ],
                     [
-                        908.0693333333334,
-                        1337.5802001953125
+                        259.30555555555554,
+                        1354.0280555555555
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDttS17WPB3jCWTUp5LrR72QtHkk+UCeijtiuq/4TXw7/0E4vyP+FcS+m3Hjnx7fQX9xssdNlZBEp5KhiOPrjmu6/4RDQP+gXB+v+NZR5ne2x7WMjhoRpqsnz2V+WyXlv1tvY//2Q==",
+            "image_mime_type": "image/jpeg"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "31650035e8c5bd26ea0d014c9e4d503c",
+        "text": "Relevance and originality of the leading thesis Quality of arguments, reflection, and analysis (including a multiplicity of perspectives) Quality of research Quality of the critical statements Clarity and structure of the essay",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        301.0,
+                        1345.0
+                    ],
+                    [
+                        301.0,
+                        1550.0
+                    ],
+                    [
+                        1410.0,
+                        1550.0
+                    ],
+                    [
+                        1410.0,
+                        1345.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -4529,151 +4510,7 @@
     },
     {
         "type": "ListItem",
-        "element_id": "2ddd2437b0ccca0598c33eabd5aaca22",
-        "text": "Quality of arguments, reflection, and analysis (including a multiplicity of perspectives)",
-        "metadata": {
-            "detection_class_prob": 0.8592460751533508,
-            "coordinates": {
-                "points": [
-                    [
-                        244.2025909423828,
-                        1384.5477294921875
-                    ],
-                    [
-                        244.2025909423828,
-                        1418.8288888888887
-                    ],
-                    [
-                        1420.9304444444444,
-                        1418.8288888888887
-                    ],
-                    [
-                        1420.9304444444444,
-                        1384.5477294921875
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 8
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "feb6d34c3a1d91f2fcae201e39b728c2",
-        "text": "Quality of research",
-        "metadata": {
-            "detection_class_prob": 0.8419504761695862,
-            "coordinates": {
-                "points": [
-                    [
-                        243.23089599609375,
-                        1426.6234130859375
-                    ],
-                    [
-                        243.23089599609375,
-                        1462.9215087890625
-                    ],
-                    [
-                        555.2637777777777,
-                        1462.9215087890625
-                    ],
-                    [
-                        555.2637777777777,
-                        1426.6234130859375
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 8
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "6a16dd49e7c5c38c960c1807a276cd63",
-        "text": "Quality of the critical statements",
-        "metadata": {
-            "detection_class_prob": 0.8520457148551941,
-            "coordinates": {
-                "points": [
-                    [
-                        248.46746826171875,
-                        1468.7838134765625
-                    ],
-                    [
-                        248.46746826171875,
-                        1507.4183349609375
-                    ],
-                    [
-                        730.6804444444444,
-                        1507.4183349609375
-                    ],
-                    [
-                        730.6804444444444,
-                        1468.7838134765625
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 8
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "622dcbdc82ebe875ba03bc1951b664ed",
-        "text": "Clarity and structure of the essay",
-        "metadata": {
-            "detection_class_prob": 0.8550765514373779,
-            "coordinates": {
-                "points": [
-                    [
-                        245.51779174804688,
-                        1513.986572265625
-                    ],
-                    [
-                        245.51779174804688,
-                        1550.5286865234375
-                    ],
-                    [
-                        737.3471111111112,
-                        1550.5286865234375
-                    ],
-                    [
-                        737.3471111111112,
-                        1513.986572265625
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 8
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "9d4785b96ff88ad76d3427a3687d4e5f",
+        "element_id": "f1a15f119a0859d089774682e1c3f38c",
         "text": "Formal aspect of the essay, including language and overall presentation of the document (e.g. professional and tidy presentation, proper and equal spacing, uniform font and size, etc.)",
         "metadata": {
             "detection_class_prob": 0.9243265986442566,
@@ -4709,7 +4546,7 @@
     },
     {
         "type": "NarrativeText",
-        "element_id": "b24ae9745f4bee86c492b80802dd788c",
+        "element_id": "0d4b960881da2ff214f05c3edad54ec0",
         "text": "Shortcomings in formal aspects of the essay (spelling, grammar, punctuation, APA standard, pagination, etc.) can lower the grade by half a grade (e.g., from A to B+ or B+ to B) or a full grade (e.g., A to B or B+ to C+), depending on extent.",
         "metadata": {
             "detection_class_prob": 0.9353795647621155,
@@ -4745,7 +4582,7 @@
     },
     {
         "type": "NarrativeText",
-        "element_id": "61cc2178e0ee44d01a9e647ebe56f068",
+        "element_id": "8e129c8baf216004850431c5b8aa57c0",
         "text": "Note that essays that could have been written by ChatGPT (e.g. descriptive, generic, trivial, sometimes irrelevant, sometimes factually incorrect, uninspiring, and unoriginal text) will not get a passing grade.",
         "metadata": {
             "detection_class_prob": 0.9358062148094177,
@@ -4781,27 +4618,26 @@
     },
     {
         "type": "Title",
-        "element_id": "db357fb999213108f1d6f8209e12e126",
+        "element_id": "1b1a6dd190503f6b52c439d41921c9a7",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.6036243438720703,
             "coordinates": {
                 "points": [
                     [
-                        1496.6248779296875,
-                        2112.485107421875
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.6248779296875,
-                        2157.587890625
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.315673828125,
-                        2157.587890625
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.315673828125,
-                        2112.485107421875
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -4849,7 +4685,7 @@
                 "eng"
             ],
             "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "parent_id": "1b1a6dd190503f6b52c439d41921c9a7"
         }
     },
     {
@@ -4886,7 +4722,7 @@
                 "eng"
             ],
             "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "parent_id": "1b1a6dd190503f6b52c439d41921c9a7"
         }
     },
     {
@@ -4923,7 +4759,7 @@
                 "eng"
             ],
             "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "parent_id": "1b1a6dd190503f6b52c439d41921c9a7"
         }
     },
     {
@@ -4960,7 +4796,7 @@
                 "eng"
             ],
             "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "parent_id": "1b1a6dd190503f6b52c439d41921c9a7"
         }
     },
     {
@@ -4997,7 +4833,7 @@
                 "eng"
             ],
             "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "parent_id": "1b1a6dd190503f6b52c439d41921c9a7"
         }
     },
     {
@@ -5034,7 +4870,7 @@
                 "eng"
             ],
             "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "parent_id": "1b1a6dd190503f6b52c439d41921c9a7"
         }
     },
     {
@@ -5071,32 +4907,31 @@
                 "eng"
             ],
             "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "parent_id": "1b1a6dd190503f6b52c439d41921c9a7"
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "ccc039d84b5ba69d23f744c5f0831726",
-        "text": "Chosen articles written in full APA style in alphabetic order",
+        "type": "Image",
+        "element_id": "794c5aa5528e7fe70f780e02aec036ed",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.8682486414909363,
             "coordinates": {
                 "points": [
                     [
-                        238.0503387451172,
-                        813.395263671875
+                        250.0,
+                        827.361111111111
                     ],
                     [
-                        238.0503387451172,
-                        848.2111206054688
+                        250.0,
+                        841.3888888888888
                     ],
                     [
-                        1071.4582222222223,
-                        848.2111206054688
+                        259.30555555555554,
+                        841.3888888888888
                     ],
                     [
-                        1071.4582222222223,
-                        813.395263671875
+                        259.30555555555554,
+                        827.361111111111
                     ]
                 ],
                 "system": "PixelSpace",
@@ -5108,12 +4943,48 @@
                 "eng"
             ],
             "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDttS17WPB3jCWTUp5LrR72QtHkk+UCeijtiuq/4TXw7/0E4vyP+FcS+m3Hjnx7fQX9xssdNlZBEp5KhiOPrjmu6/4RDQP+gXB+v+NZR5ne2x7WMjhoRpqsnz2V+WyXlv1tvY//2Q==",
+            "image_mime_type": "image/jpeg"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b339b6f9a99d81626f369337b45acbd6",
+        "text": "Chosen articles written in full APA style in alphabetic order",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        301.0,
+                        818.0
+                    ],
+                    [
+                        301.0,
+                        848.0
+                    ],
+                    [
+                        1062.0,
+                        848.0
+                    ],
+                    [
+                        1062.0,
+                        818.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
         }
     },
     {
         "type": "ListItem",
-        "element_id": "b07bc08fcbbe8b6b0c9ce534ddaf5007",
+        "element_id": "04f4b4d96be3c292e1ecd38df2066a29",
         "text": "Each article reference will be followed by an annotation that contains three elements: a summary of the article\u2019s main thesis and arguments, a description of the relevant elements for your essay (i.e. which parts of the article you will be using for your second essay) and a critical statement.",
         "metadata": {
             "detection_class_prob": 0.9379161596298218,
@@ -5144,13 +5015,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "page_number": 9
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "2071ba6dcec3f98eeb5067a4ead05589",
+        "element_id": "ccbb92fa36a4b41843461d37ad24ae31",
         "text": "Requirements for the Annotated Bibliography",
         "metadata": {
             "detection_class_prob": 0.8685693740844727,
@@ -5181,13 +5051,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "page_number": 9
         }
     },
     {
         "type": "ListItem",
-        "element_id": "d8f94279b346d1a4a8736c475b95f8ea",
+        "element_id": "bff8c270af7007c92ae5f0e8c788ec06",
         "text": "The title page includes the paper\u2019s title, student name, course number and title, instructor, date and word count.",
         "metadata": {
             "detection_class_prob": 0.9163591265678406,
@@ -5218,13 +5087,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "page_number": 9
         }
     },
     {
         "type": "ListItem",
-        "element_id": "95ca62b4eced049fdb68b65f8c9c0e5e",
+        "element_id": "b61b63dd9104b87005d1bbe3f2606614",
         "text": "The paper title must follow the following format: \u201cAnnotated Bibliography of [title of your topic]\u201d",
         "metadata": {
             "detection_class_prob": 0.9207486510276794,
@@ -5255,13 +5123,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "page_number": 9
         }
     },
     {
         "type": "ListItem",
-        "element_id": "8db449839cdd53fcd4e941dbb778224b",
+        "element_id": "87bf3795f4cb2479f49dd6db8268248d",
         "text": "The annotated bibliography will include five (5) scholarly articles relevant to your second essay. Note that an academic article is published in a peer-reviewed journal and does not include article reviews, book chapters, books, opinion pieces, encyclopedia entries, newspaper articles, web pages, non-peer-reviewed articles, and the like. Course readings are also not admissible.",
         "metadata": {
             "detection_class_prob": 0.9519500136375427,
@@ -5292,13 +5159,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "page_number": 9
         }
     },
     {
         "type": "ListItem",
-        "element_id": "aab5af9abe478276920c9f7d81720964",
+        "element_id": "f36d5eb4849bc01039e7914b96762ec3",
         "text": "The annotated bibliography\u2019s introduction will have a maximum of 125 words.",
         "metadata": {
             "detection_class_prob": 0.8490679860115051,
@@ -5329,13 +5195,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 9,
-            "parent_id": "db357fb999213108f1d6f8209e12e126"
+            "page_number": 9
         }
     },
     {
         "type": "Image",
-        "element_id": "768fbfceb93faffe95f1a781e65ff62e",
+        "element_id": "79900ddc8924f3c84de14afde9ff6df1",
         "text": ">\u00bb",
         "metadata": {
             "coordinates": {
@@ -5372,7 +5237,7 @@
     },
     {
         "type": "ListItem",
-        "element_id": "55b04ded4a0f66fa3441ca5961934183",
+        "element_id": "2e55804fdaa22c80fe200cedf2741f5d",
         "text": "Each annotation (including all three parts) will have between 150 and 300 words.",
         "metadata": {
             "detection_class_prob": 0.8495087623596191,
@@ -5408,7 +5273,7 @@
     },
     {
         "type": "ListItem",
-        "element_id": "d0e9cd94d66c3f83ee9034e5fa15d067",
+        "element_id": "f6c915fdc5b6f2e04d0292fe34b2aa6e",
         "text": "The summary part of the annotation is not just a reiteration of the article summary (usually provided with the article). You will pull out the main thesis and supporting arguments and identify the article\u2019s elements that will be relevant to your essay.",
         "metadata": {
             "detection_class_prob": 0.9355429410934448,
@@ -5444,7 +5309,7 @@
     },
     {
         "type": "Image",
-        "element_id": "69e1bbed60be65229a97808fffd00eea",
+        "element_id": "15fd4240850dd27ee5d0078146ddcc94",
         "text": ">\u00bb",
         "metadata": {
             "coordinates": {
@@ -5481,7 +5346,7 @@
     },
     {
         "type": "ListItem",
-        "element_id": "b4bddf88eba0fd1615b5b87838265649",
+        "element_id": "5fab45468d11a8103ec0fc6d952e70bf",
         "text": "The critical assessment consists of considerations that go beyond the reviewed article\u2019s arguments. This can take many forms, e.g. considering the soundness or completeness of the arguments (anything missing? any biases or omissions? any additional reasons to support the author\u2019s view?), linking to prior \u2013 published \u2013 knowledge, etc. Note: Always opt for \u201csubstantiated\u201d rather than \u201csubjective\u201d critical assertions. The reasons why you believe anything are more important than the claims (or assertions) you make.",
         "metadata": {
             "detection_class_prob": 0.9506456851959229,
@@ -5517,27 +5382,26 @@
     },
     {
         "type": "Title",
-        "element_id": "eae79b0bde57b45a3b73d47db28c368b",
+        "element_id": "c3dd2b29786ba879983739394f16e5d6",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.6792647838592529,
             "coordinates": {
                 "points": [
                     [
-                        1496.6044921875,
-                        2113.4296875
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.6044921875,
-                        2157.455322265625
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.5135498046875,
-                        2157.455322265625
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.5135498046875,
-                        2113.4296875
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -5585,7 +5449,7 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "eae79b0bde57b45a3b73d47db28c368b"
+            "parent_id": "c3dd2b29786ba879983739394f16e5d6"
         }
     },
     {
@@ -5622,7 +5486,7 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "eae79b0bde57b45a3b73d47db28c368b"
+            "parent_id": "c3dd2b29786ba879983739394f16e5d6"
         }
     },
     {
@@ -5659,32 +5523,31 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "eae79b0bde57b45a3b73d47db28c368b"
+            "parent_id": "c3dd2b29786ba879983739394f16e5d6"
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "9f4040f5781413103db177466c78361c",
-        "text": "Compliance with all requirements",
+        "type": "Image",
+        "element_id": "b0b9fb89477efd9ada8ba7bd0cfd54ae",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.8207870721817017,
             "coordinates": {
                 "points": [
                     [
-                        245.06668090820312,
-                        413.46624755859375
+                        250.0,
+                        427.3613888888889
                     ],
                     [
-                        245.06668090820312,
-                        448.56866455078125
+                        250.0,
+                        441.3888888888888
                     ],
                     [
-                        746.0137777777778,
-                        448.56866455078125
+                        259.30555555555554,
+                        441.3888888888888
                     ],
                     [
-                        746.0137777777778,
-                        413.46624755859375
+                        259.30555555555554,
+                        427.3613888888889
                     ]
                 ],
                 "system": "PixelSpace",
@@ -5696,12 +5559,48 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "eae79b0bde57b45a3b73d47db28c368b"
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDttS17WPB3jCWTUp5LrR72QtHkk+UCeijtiuq/4TXw7/0E4vyP+FcS+m3Hjnx7fQX9xssdNlZBEp5KhiOPrjmu6/4RDQP+gXB+v+NZR5ne2x7WMjhoRpqsnz2V+WyXlv1tvY//2Q==",
+            "image_mime_type": "image/jpeg"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5368e7bc2589bb9d5ffadab772034c2f",
+        "text": "Compliance with all requirements",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        301.0,
+                        418.0
+                    ],
+                    [
+                        301.0,
+                        448.0
+                    ],
+                    [
+                        736.0,
+                        448.0
+                    ],
+                    [
+                        736.0,
+                        418.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
         }
     },
     {
         "type": "ListItem",
-        "element_id": "72bf926e5fd38b36f0b25aa2bb1a54d9",
+        "element_id": "64b30b04f47019c0ff775ef982d3e29f",
         "text": "Strict adherence to APA standard",
         "metadata": {
             "detection_class_prob": 0.7507635951042175,
@@ -5733,12 +5632,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "eae79b0bde57b45a3b73d47db28c368b"
+            "parent_id": "5368e7bc2589bb9d5ffadab772034c2f"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "b99a0844cf485a528a0ad59e670410d8",
+        "element_id": "31c33d03db1462ad4480f932510df534",
         "text": "Personalization of the annotation",
         "metadata": {
             "detection_class_prob": 0.7710635662078857,
@@ -5770,32 +5669,31 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "eae79b0bde57b45a3b73d47db28c368b"
+            "parent_id": "5368e7bc2589bb9d5ffadab772034c2f"
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "9b9015a1794572830a87b0c82ef9fa37",
+        "type": "Title",
+        "element_id": "0900003483b5dc3a367273cb44950806",
         "text": "Quality of the critical assessment",
         "metadata": {
-            "detection_class_prob": 0.8098707795143127,
             "coordinates": {
                 "points": [
                     [
-                        245.33706665039062,
-                        546.3618774414062
+                        301.0,
+                        550.0
                     ],
                     [
-                        245.33706665039062,
-                        580.85595703125
+                        301.0,
+                        580.0
                     ],
                     [
-                        736.0137777777778,
-                        580.85595703125
+                        727.0,
+                        580.0
                     ],
                     [
-                        736.0137777777778,
-                        546.3618774414062
+                        727.0,
+                        550.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -5806,13 +5704,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 10,
-            "parent_id": "eae79b0bde57b45a3b73d47db28c368b"
+            "page_number": 10
         }
     },
     {
         "type": "Title",
-        "element_id": "856f5186d325c49a4b721d35054ed22e",
+        "element_id": "a57db604372b7ab87af3bfa99d98fc70",
         "text": "Second Essay",
         "metadata": {
             "detection_class_prob": 0.7831401228904724,
@@ -5848,7 +5745,7 @@
     },
     {
         "type": "NarrativeText",
-        "element_id": "a1626dad6794fdc7154946bbdd2f950c",
+        "element_id": "a42496ea02c219206e4cc4c15839e54d",
         "text": "The topic of the Second Essay is also open, but it must be related to one of the topics of the winter half of the course (after January 10) and must be a Canadian topic. Any deviation from this instruction must be discussed with the instructor, or the essay will receive a 0.",
         "metadata": {
             "detection_class_prob": 0.9398978352546692,
@@ -5880,12 +5777,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "a57db604372b7ab87af3bfa99d98fc70"
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "ffe6e38fa8d93382700361763e66d403",
+        "element_id": "314112e2a1a028943470579ccd6623f1",
         "text": "Elements of the Second Essay",
         "metadata": {
             "detection_class_prob": 0.8249725103378296,
@@ -5917,12 +5814,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "a57db604372b7ab87af3bfa99d98fc70"
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "4022d4baceb856ed6b0c1972ba3c3e4f",
+        "element_id": "939854a0e68a158ff511ed920bbc1fc5",
         "text": "The essay will comprise the following elements:",
         "metadata": {
             "detection_class_prob": 0.8651743531227112,
@@ -5954,12 +5851,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "a57db604372b7ab87af3bfa99d98fc70"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "216e30492422858bf745fc94e5239483",
+        "element_id": "93869d9fce5f38624eea9bd3e8428154",
         "text": "Title page",
         "metadata": {
             "detection_class_prob": 0.817575991153717,
@@ -5991,12 +5888,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "a57db604372b7ab87af3bfa99d98fc70"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "5b0d2454006e5c390605fc6a0bcef010",
+        "element_id": "1f9b422b2bd93170370836cf4e870eef",
         "text": "Introduction \u2013 Body \u2013 Conclusion",
         "metadata": {
             "detection_class_prob": 0.8268733620643616,
@@ -6028,32 +5925,31 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "a57db604372b7ab87af3bfa99d98fc70"
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "bcdff359d965c7856b4d14d4ff072eaf",
-        "text": "References to scholarly articles",
+        "type": "Image",
+        "element_id": "8df50d0c385f3754f9ff4716f926999b",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.8236712217330933,
             "coordinates": {
                 "points": [
                     [
-                        244.35308837890625,
-                        1088.0439453125
+                        250.0,
+                        1101.3891666666666
                     ],
                     [
-                        244.35308837890625,
-                        1122.1066666666666
+                        250.0,
+                        1115.2777777777778
                     ],
                     [
-                        708.6804444444443,
-                        1122.1066666666666
+                        259.30555555555554,
+                        1115.2777777777778
                     ],
                     [
-                        708.6804444444443,
-                        1088.0439453125
+                        259.30555555555554,
+                        1101.3891666666666
                     ]
                 ],
                 "system": "PixelSpace",
@@ -6065,12 +5961,48 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDttS17WPB3jCWTUp5LrR72QtHkk+UCeijtiuq/4TXw7/0E4vyP+FcS+m3Hjnx7fQX9xssdNlZBEp5KhiOPrjmu6/4RDQP+gXB+v+NZR5ne2x7WMjhoRpqsnz2V+WyXlv1tvY//2Q==",
+            "image_mime_type": "image/jpeg"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "64e3acbd5b55aa0eaafa6870314d2ab3",
+        "text": "References to scholarly articles",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        303.0,
+                        1092.0
+                    ],
+                    [
+                        303.0,
+                        1122.0
+                    ],
+                    [
+                        699.0,
+                        1122.0
+                    ],
+                    [
+                        699.0,
+                        1092.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
         }
     },
     {
         "type": "ListItem",
-        "element_id": "109b1d4a966e7691c70d79740df5c0ff",
+        "element_id": "5a050fe7c373b056f25bc7fd1f10a34a",
         "text": "Bibliography and in-text citations",
         "metadata": {
             "detection_class_prob": 0.8370611667633057,
@@ -6102,12 +6034,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "64e3acbd5b55aa0eaafa6870314d2ab3"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "2af49ba2f4b33dff9acee8e7009c5fa1",
+        "element_id": "90f814e6b35f0e4e21b6ac891fdb9f6f",
         "text": "Page numbering",
         "metadata": {
             "detection_class_prob": 0.8159719705581665,
@@ -6139,12 +6071,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "64e3acbd5b55aa0eaafa6870314d2ab3"
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "11e030ab5ce1ec8457a7f8b376507516",
+        "element_id": "a682ff2d64dde8d057b329b7dd29785f",
         "text": "Requirements for the Second Essay",
         "metadata": {
             "detection_class_prob": 0.8776707649230957,
@@ -6176,12 +6108,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "64e3acbd5b55aa0eaafa6870314d2ab3"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "7c2b450d907241256a8df32c13acbfc4",
+        "element_id": "69478846ef5fc07ce15b79de79afa023",
         "text": "The title page includes the paper\u2019s title, student name, course number and title, instructor, date and word count.",
         "metadata": {
             "detection_class_prob": 0.9188796281814575,
@@ -6213,12 +6145,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "64e3acbd5b55aa0eaafa6870314d2ab3"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "b9993d2ec78b0e6f3afefc764f5c9d94",
+        "element_id": "ff9621b6a5a463cd739d24b46afee5e0",
         "text": "The essay will have a clearly identifiable introduction, body, and conclusion.",
         "metadata": {
             "detection_class_prob": 0.8574193716049194,
@@ -6250,12 +6182,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "64e3acbd5b55aa0eaafa6870314d2ab3"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "23e4e5d7cb0d92eb7a937095af9efd19",
+        "element_id": "22fff8503867fe463ffcc3c918f5b9f7",
         "text": "The introduction has three parts: 1) It starts with a hook, i.e. a sentence or two on why this thesis matters (why should the reader care about this issue?) and some background information. 2) It states a clear thesis (or a strong claim) that must be supported by arguments in the body. 3) It briefly maps the essay structure (e.g. \u201cto support this claim, the paper will consider x, y, and z\u201d).",
         "metadata": {
             "detection_class_prob": 0.9523497223854065,
@@ -6287,12 +6219,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "64e3acbd5b55aa0eaafa6870314d2ab3"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "1b5908d6240c7ace9f5d5dee5d432448",
+        "element_id": "72f034859b4a4260537cb86fe425186b",
         "text": "The body comprises paragraphs, each corresponding roughly to an idea or argument supporting your thesis. Ideally, a paragraph presents the argument, explains it, and provides an example (or a quote).",
         "metadata": {
             "detection_class_prob": 0.9340497255325317,
@@ -6324,12 +6256,12 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "64e3acbd5b55aa0eaafa6870314d2ab3"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "4e76e1346dacca27aea3276de7f34f64",
+        "element_id": "1ab5448928314ad1413132284f0361ab",
         "text": "The conclusion will be short and will have no new information. It will summarize the arguments supporting the thesis. It can end with one sentence that goes beyond your thesis (e.g. pointing to possible new questions resulting from your arguments, presenting an interesting insight, etc.).",
         "metadata": {
             "detection_class_prob": 0.9401142597198486,
@@ -6361,32 +6293,31 @@
                 "eng"
             ],
             "page_number": 10,
-            "parent_id": "856f5186d325c49a4b721d35054ed22e"
+            "parent_id": "64e3acbd5b55aa0eaafa6870314d2ab3"
         }
     },
     {
         "type": "Title",
-        "element_id": "9bfde12f6a00120ade4d0e78dd462deb",
+        "element_id": "2d69c77c52124363a7469574a6e62a67",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.6854303479194641,
             "coordinates": {
                 "points": [
                     [
-                        1496.3883056640625,
-                        2112.044189453125
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.3883056640625,
-                        2158.0634765625
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.3084716796875,
-                        2158.0634765625
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.3084716796875,
-                        2112.044189453125
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -6434,7 +6365,7 @@
                 "eng"
             ],
             "page_number": 11,
-            "parent_id": "9bfde12f6a00120ade4d0e78dd462deb"
+            "parent_id": "2d69c77c52124363a7469574a6e62a67"
         }
     },
     {
@@ -6471,7 +6402,7 @@
                 "eng"
             ],
             "page_number": 11,
-            "parent_id": "9bfde12f6a00120ade4d0e78dd462deb"
+            "parent_id": "2d69c77c52124363a7469574a6e62a67"
         }
     },
     {
@@ -6508,7 +6439,7 @@
                 "eng"
             ],
             "page_number": 11,
-            "parent_id": "9bfde12f6a00120ade4d0e78dd462deb"
+            "parent_id": "2d69c77c52124363a7469574a6e62a67"
         }
     },
     {
@@ -6545,7 +6476,7 @@
                 "eng"
             ],
             "page_number": 11,
-            "parent_id": "9bfde12f6a00120ade4d0e78dd462deb"
+            "parent_id": "2d69c77c52124363a7469574a6e62a67"
         }
     },
     {
@@ -6582,7 +6513,7 @@
                 "eng"
             ],
             "page_number": 11,
-            "parent_id": "9bfde12f6a00120ade4d0e78dd462deb"
+            "parent_id": "2d69c77c52124363a7469574a6e62a67"
         }
     },
     {
@@ -6694,116 +6625,8 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "16f3f380af714e8dfe03b1ef6a2cde00",
-        "text": "Compliance with all required elements, including word count, APA, and required references",
-        "metadata": {
-            "detection_class_prob": 0.7318079471588135,
-            "coordinates": {
-                "points": [
-                    [
-                        243.44932556152344,
-                        1167.251953125
-                    ],
-                    [
-                        243.44932556152344,
-                        1199.465087890625
-                    ],
-                    [
-                        1502.2637777777775,
-                        1199.465087890625
-                    ],
-                    [
-                        1502.2637777777775,
-                        1167.251953125
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 11
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "eef679964e7ec3a984dd85bc1737bca0",
-        "text": "Relevance and originality of the leading thesis",
-        "metadata": {
-            "detection_class_prob": 0.8695347309112549,
-            "coordinates": {
-                "points": [
-                    [
-                        250.31459045410156,
-                        1206.729736328125
-                    ],
-                    [
-                        250.31459045410156,
-                        1244.9293212890625
-                    ],
-                    [
-                        908.0693333333334,
-                        1244.9293212890625
-                    ],
-                    [
-                        908.0693333333334,
-                        1206.729736328125
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 11
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "c3ccf9c900c6db7d747845fb52ab0d40",
-        "text": "Quality of arguments, reflection, and analysis (including a multiplicity of perspectives)",
-        "metadata": {
-            "detection_class_prob": 0.7547761797904968,
-            "coordinates": {
-                "points": [
-                    [
-                        251.57704162597656,
-                        1252.5242919921875
-                    ],
-                    [
-                        251.57704162597656,
-                        1286.842041015625
-                    ],
-                    [
-                        1420.9304444444444,
-                        1286.842041015625
-                    ],
-                    [
-                        1420.9304444444444,
-                        1252.5242919921875
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 11
-        }
-    },
-    {
         "type": "Image",
-        "element_id": "c3024f7129090d362b198a4085978ded",
+        "element_id": "16b691d0751572a9053f7a95cfd8c8a6",
         "text": "",
         "metadata": {
             "coordinates": {
@@ -6839,100 +6662,27 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "1bada37ed8ef9ad430ed551421106b14",
-        "text": "Quality of research",
+        "type": "NarrativeText",
+        "element_id": "2a9b22fa62107e3b53c8bf0b8f69b034",
+        "text": "Compliance with all required elements, including word count, APA, and required references Relevance and originality of the leading thesis Quality of arguments, reflection, and analysis (including a multiplicity of perspectives) Quality of research Quality of the critical statements Clarity and structure of the essay",
         "metadata": {
-            "detection_class_prob": 0.8421097993850708,
             "coordinates": {
                 "points": [
                     [
-                        247.03009033203125,
-                        1294.7960205078125
+                        301.0,
+                        1170.0
                     ],
                     [
-                        247.03009033203125,
-                        1332.042236328125
+                        301.0,
+                        1419.0
                     ],
                     [
-                        555.2637777777777,
-                        1332.042236328125
+                        1491.0,
+                        1419.0
                     ],
                     [
-                        555.2637777777777,
-                        1294.7960205078125
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 11
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "31f9a8fb562fe194cd1ddaa4a2691487",
-        "text": "Quality of the critical statements",
-        "metadata": {
-            "detection_class_prob": 0.8409510254859924,
-            "coordinates": {
-                "points": [
-                    [
-                        244.153076171875,
-                        1338.3212890625
-                    ],
-                    [
-                        244.153076171875,
-                        1375.9185791015625
-                    ],
-                    [
-                        730.6804444444444,
-                        1375.9185791015625
-                    ],
-                    [
-                        730.6804444444444,
-                        1338.3212890625
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 11
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "6752051ccee7773310480c76d0b15d87",
-        "text": "Clarity and structure of the essay",
-        "metadata": {
-            "detection_class_prob": 0.8497307896614075,
-            "coordinates": {
-                "points": [
-                    [
-                        245.04269409179688,
-                        1384.143798828125
-                    ],
-                    [
-                        245.04269409179688,
-                        1418.8288888888887
-                    ],
-                    [
-                        737.3471111111112,
-                        1418.8288888888887
-                    ],
-                    [
-                        737.3471111111112,
-                        1384.143798828125
+                        1491.0,
+                        1170.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -7059,24 +6809,23 @@
         "element_id": "3e7a7dad216943374934a4a302dd1149",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.5762584805488586,
             "coordinates": {
                 "points": [
                     [
-                        1496.4818115234375,
-                        2112.386474609375
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.4818115234375,
-                        2157.69287109375
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.413330078125,
-                        2157.69287109375
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.413330078125,
-                        2112.386474609375
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -7497,28 +7246,27 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "e392da57306eb969ce93163639d07150",
-        "text": "Quality of the takeaway elements (including structure)",
+        "type": "NarrativeText",
+        "element_id": "51ee8b1244610a2e3e33915c45edfef1",
+        "text": "Quality of the takeaway elements (including structure) Richness and relevance of the question(s) as determined by subsequent discussion Relevance of the ununderstood passages",
         "metadata": {
-            "detection_class_prob": 0.8590418100357056,
             "coordinates": {
                 "points": [
                     [
-                        245.9556427001953,
-                        1378.504638671875
+                        301.0,
+                        1384.0
                     ],
                     [
-                        245.9556427001953,
-                        1414.0750732421875
+                        301.0,
+                        1502.0
                     ],
                     [
-                        1015.8116455078125,
-                        1414.0750732421875
+                        1377.0,
+                        1502.0
                     ],
                     [
-                        1015.8116455078125,
-                        1378.504638671875
+                        1377.0,
+                        1384.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -7529,87 +7277,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 12,
-            "parent_id": "ea35ec38e4bd05015528297e1b2c98b2"
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "219b62814dfdc46acb57c32dfa5372e5",
-        "text": "Richness and relevance of the question(s) as determined by subsequent discussion",
-        "metadata": {
-            "detection_class_prob": 0.8473741412162781,
-            "coordinates": {
-                "points": [
-                    [
-                        245.67623901367188,
-                        1422.9420166015625
-                    ],
-                    [
-                        245.67623901367188,
-                        1458.2413330078125
-                    ],
-                    [
-                        1396.2637777777777,
-                        1458.2413330078125
-                    ],
-                    [
-                        1396.2637777777777,
-                        1422.9420166015625
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 12,
-            "parent_id": "ea35ec38e4bd05015528297e1b2c98b2"
-        }
-    },
-    {
-        "type": "ListItem",
-        "element_id": "605fb656e3ecfb989d1eca10b2c63ced",
-        "text": "Relevance of the ununderstood passages",
-        "metadata": {
-            "detection_class_prob": 0.8632694482803345,
-            "coordinates": {
-                "points": [
-                    [
-                        244.8393096923828,
-                        1467.8211669921875
-                    ],
-                    [
-                        244.8393096923828,
-                        1502.2064208984375
-                    ],
-                    [
-                        846.7360000000001,
-                        1502.2064208984375
-                    ],
-                    [
-                        846.7360000000001,
-                        1467.8211669921875
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 12,
-            "parent_id": "ea35ec38e4bd05015528297e1b2c98b2"
+            "page_number": 12
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "9caefa95e626945f8655fef3121a7d81",
+        "element_id": "3616c03679a614d43d4a87b5d14dbcff",
         "text": "The presentation will be peer-assessed (i.e. your groupmates will evaluate or rate you on your presentation) based on the above rubric.",
         "metadata": {
             "detection_class_prob": 0.9238028526306152,
@@ -7640,13 +7313,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 12,
-            "parent_id": "ea35ec38e4bd05015528297e1b2c98b2"
+            "page_number": 12
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "a762c127d390df4ab8ae856786367da2",
+        "element_id": "aa0c311bf067b58d347c856428d3a903",
         "text": "The discussion outcome is not part of this evaluation item, as it is the object of the tutorial discussions. For the presentation, students receive an individual mark (whereas the tutorial discussion has a group mark).",
         "metadata": {
             "detection_class_prob": 0.9354572296142578,
@@ -7677,13 +7349,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 12,
-            "parent_id": "ea35ec38e4bd05015528297e1b2c98b2"
+            "page_number": 12
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "1a6aa960526a49cd00d2788f157fb207",
+        "element_id": "dc9300d2e42a6f67dfe5c92491848b0a",
         "text": "Non\u2010medical absences such as family vacations and trips are NOT legitimate reasons for missing presentations. In case of a justified absence, an alternate date must be found. All students must have two presentations in the year.",
         "metadata": {
             "detection_class_prob": 0.937904953956604,
@@ -7714,33 +7385,31 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 12,
-            "parent_id": "ea35ec38e4bd05015528297e1b2c98b2"
+            "page_number": 12
         }
     },
     {
         "type": "Title",
-        "element_id": "0474a9bf2748a94ae76068f0f73d9e53",
+        "element_id": "c9d7dd07ef7368328ed287ad0672eeab",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.6175647377967834,
             "coordinates": {
                 "points": [
                     [
-                        1496.17236328125,
-                        2111.605712890625
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.17236328125,
-                        2158.08447265625
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.118408203125,
-                        2158.08447265625
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.118408203125,
-                        2111.605712890625
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -7788,7 +7457,7 @@
                 "eng"
             ],
             "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "parent_id": "c9d7dd07ef7368328ed287ad0672eeab"
         }
     },
     {
@@ -7825,7 +7494,7 @@
                 "eng"
             ],
             "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "parent_id": "c9d7dd07ef7368328ed287ad0672eeab"
         }
     },
     {
@@ -7862,7 +7531,7 @@
                 "eng"
             ],
             "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "parent_id": "c9d7dd07ef7368328ed287ad0672eeab"
         }
     },
     {
@@ -7899,7 +7568,7 @@
                 "eng"
             ],
             "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "parent_id": "c9d7dd07ef7368328ed287ad0672eeab"
         }
     },
     {
@@ -7936,7 +7605,7 @@
                 "eng"
             ],
             "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "parent_id": "c9d7dd07ef7368328ed287ad0672eeab"
         }
     },
     {
@@ -7973,32 +7642,31 @@
                 "eng"
             ],
             "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "parent_id": "c9d7dd07ef7368328ed287ad0672eeab"
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "1f0b3074f54dfdc8ac078649792a0ac8",
+        "type": "Title",
+        "element_id": "bf5412df304d35d7f9d3f66a6f77c376",
         "text": "Quality of the contributions",
         "metadata": {
-            "detection_class_prob": 0.8133358955383301,
             "coordinates": {
                 "points": [
                     [
-                        242.3368682861328,
-                        631.7218017578125
+                        301.0,
+                        636.0
                     ],
                     [
-                        242.3368682861328,
-                        665.9677777777777
+                        301.0,
+                        666.0
                     ],
                     [
-                        668.0137777777777,
-                        665.9677777777777
+                        657.0,
+                        666.0
                     ],
                     [
-                        668.0137777777777,
-                        631.7218017578125
+                        657.0,
+                        636.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -8009,13 +7677,12 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "page_number": 13
         }
     },
     {
         "type": "NarrativeText",
-        "element_id": "70f5e9a4f0c873727d9fcb26ba8c799f",
+        "element_id": "9b2b0a749e5293d22f5aedd0b31d6ad2",
         "text": "Conditions for Submissions (including Late Submissions)",
         "metadata": {
             "detection_class_prob": 0.8506059050559998,
@@ -8047,12 +7714,12 @@
                 "eng"
             ],
             "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "parent_id": "bf5412df304d35d7f9d3f66a6f77c376"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "e5cddc1a84e607b132899db1df0d785d",
+        "element_id": "90233590293b6f70566c8b412888fcd9",
         "text": "Assignments handed in late (without medical documentation) will be penalized at 5% per day (max. 25% per week). Assignments are no longer accepted after five days (including weekends).",
         "metadata": {
             "detection_class_prob": 0.9352606534957886,
@@ -8084,12 +7751,12 @@
                 "eng"
             ],
             "page_number": 13,
-            "parent_id": "0474a9bf2748a94ae76068f0f73d9e53"
+            "parent_id": "bf5412df304d35d7f9d3f66a6f77c376"
         }
     },
     {
         "type": "Image",
-        "element_id": "6dbaee1f8bc78558ad72e19a94c45fad",
+        "element_id": "67a90651fb91ee35dc625ac10149003a",
         "text": ">\u00bb",
         "metadata": {
             "coordinates": {
@@ -8125,28 +7792,64 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "853db308b9daf414e9fe24932b683f31",
-        "text": "Assignments will be handed in electronically through eClass (not email).",
+        "type": "Image",
+        "element_id": "eec9e60253cf6bec7871b7efbe97052f",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.8415802121162415,
             "coordinates": {
                 "points": [
                     [
-                        249.26551818847656,
-                        950.1859130859375
+                        250.0,
+                        961.9444444444445
                     ],
                     [
-                        249.26551818847656,
-                        983.582275390625
+                        250.0,
+                        975.9722222222223
                     ],
                     [
-                        1244.8748888888888,
-                        983.582275390625
+                        259.30555555555554,
+                        975.9722222222223
                     ],
                     [
-                        1244.8748888888888,
-                        950.1859130859375
+                        259.30555555555554,
+                        961.9444444444445
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDq9euL7wJ4xfU45zcWOoyGSSFm5GTyPw7V0n/CydD/ALt1/wB+qzU8ITa940vr/WblJrW3l2wwITyOqg/hjOK7n+zbH/nyt/8Av0v+FZRUtbbHs4uph1GnGpHmmkrtaenTWy6n/9k=",
+            "image_mime_type": "image/jpeg"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "37f882934c2118f9ac82519b5c4b7ddb",
+        "text": "Assignments will be handed in electronically through eClass (not email).",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        301.0,
+                        953.0
+                    ],
+                    [
+                        301.0,
+                        983.0
+                    ],
+                    [
+                        1233.0,
+                        983.0
+                    ],
+                    [
+                        1233.0,
+                        953.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -8162,7 +7865,7 @@
     },
     {
         "type": "NarrativeText",
-        "element_id": "da093a0e9a121bc41629e8eb628c5117",
+        "element_id": "55cfc3120ff3c746a44b25f39be524c6",
         "text": "Special Extension Coupon",
         "metadata": {
             "detection_class_prob": 0.6862911581993103,
@@ -8198,7 +7901,7 @@
     },
     {
         "type": "NarrativeText",
-        "element_id": "486bac314ed9b646e89979d67f49bc7b",
+        "element_id": "803c54dec08568273124c733d00998d0",
         "text": "The Special Extension Coupon may be used once during the year for an automatic up-to-five- day (not just weekday) extension on one of the written assignments (article review, essays and annotated bibliography). Unused days will not be banked. It cannot be used for quizzes, presentations, or discussions. You may submit your assignment up to 5 days after the due date when redeeming this coupon with your essay. No late penalties will be deducted from the grade you receive on this paper. The coupon can be redeemed online while uploading the assignment to eClass (as per live instructions during the first class).",
         "metadata": {
             "detection_class_prob": 0.9547911882400513,
@@ -8234,7 +7937,7 @@
     },
     {
         "type": "Title",
-        "element_id": "c5e8afc41730dd9e88b106941e033222",
+        "element_id": "4dbf207270538e3f6ab04d2a7b9039bb",
         "text": "YORKW",
         "metadata": {
             "coordinates": {
@@ -8451,28 +8154,27 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "bb16b91ef0ea5c6a8cb838b968b1cc2b",
-        "text": "References (books, journals, etc.)",
+        "type": "Image",
+        "element_id": "7de73ec4a9ca1d9cad8f9d2f36ea42f0",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.7861012816429138,
             "coordinates": {
                 "points": [
                     [
-                        245.84446716308594,
-                        1695.5872802734375
+                        250.0,
+                        1711.3886111111108
                     ],
                     [
-                        245.84446716308594,
-                        1732.694091796875
+                        250.0,
+                        1725.2777777777778
                     ],
                     [
-                        736.0137777777778,
-                        1732.694091796875
+                        259.30555555555554,
+                        1725.2777777777778
                     ],
                     [
-                        736.0137777777778,
-                        1695.5872802734375
+                        259.30555555555554,
+                        1711.3886111111108
                     ]
                 ],
                 "system": "PixelSpace",
@@ -8484,12 +8186,48 @@
                 "eng"
             ],
             "page_number": 14,
-            "parent_id": "d56dd265a357e76f44bea474cd5f9dc6"
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDttS17WPB3jCWTUp5LrR72QtHkk+UCeijtiuq/4TXw7/0E4vyP+FcS+m3Hjnx7fQX9xssdNlZBEp5KhiOPrjmu6/4RDQP+gXB+v+NZR5ne2x7WMjhoRpqsnz2V+WyXlv1tvY//2Q==",
+            "image_mime_type": "image/jpeg"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ccc000f219d6c674beb32c5ba182a6aa",
+        "text": "References (books, journals, etc.)",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        303.0,
+                        1702.0
+                    ],
+                    [
+                        303.0,
+                        1732.0
+                    ],
+                    [
+                        725.0,
+                        1732.0
+                    ],
+                    [
+                        725.0,
+                        1702.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14
         }
     },
     {
         "type": "ListItem",
-        "element_id": "e4ca83587beeae677a50558236ce395a",
+        "element_id": "7e00ac7e33b655d4d7453f27f7c7a4a9",
         "text": "In-text citations",
         "metadata": {
             "detection_class_prob": 0.809312105178833,
@@ -8521,12 +8259,12 @@
                 "eng"
             ],
             "page_number": 14,
-            "parent_id": "d56dd265a357e76f44bea474cd5f9dc6"
+            "parent_id": "ccc000f219d6c674beb32c5ba182a6aa"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "fff0104ad9577de971e3381823cf9ecd",
+        "element_id": "13d1b4f2c54bf23b7b3fe8ddd78d8d29",
         "text": "Paper formatting",
         "metadata": {
             "detection_class_prob": 0.7624664902687073,
@@ -8558,12 +8296,12 @@
                 "eng"
             ],
             "page_number": 14,
-            "parent_id": "d56dd265a357e76f44bea474cd5f9dc6"
+            "parent_id": "ccc000f219d6c674beb32c5ba182a6aa"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "1ee5322c75a92b28d8ddf16e5589954d",
+        "element_id": "b006764068a4900e491a17a9a595ead6",
         "text": "Title page setup",
         "metadata": {
             "detection_class_prob": 0.7846584916114807,
@@ -8595,12 +8333,12 @@
                 "eng"
             ],
             "page_number": 14,
-            "parent_id": "d56dd265a357e76f44bea474cd5f9dc6"
+            "parent_id": "ccc000f219d6c674beb32c5ba182a6aa"
         }
     },
     {
         "type": "ListItem",
-        "element_id": "10161ddde99a6e1ace1f7b71729ec522",
+        "element_id": "a30f1f2e1a32af229eee9140ab42f8b9",
         "text": "It may be useful to consult a sample paper for reference",
         "metadata": {
             "detection_class_prob": 0.846680760383606,
@@ -8632,12 +8370,12 @@
                 "eng"
             ],
             "page_number": 14,
-            "parent_id": "d56dd265a357e76f44bea474cd5f9dc6"
+            "parent_id": "ccc000f219d6c674beb32c5ba182a6aa"
         }
     },
     {
         "type": "Title",
-        "element_id": "0a481656a26030a4dc2341d88c3580f8",
+        "element_id": "153156859bb02e146fa2afb33e9180ae",
         "text": "YORKW",
         "metadata": {
             "coordinates": {
@@ -8704,7 +8442,7 @@
                 "eng"
             ],
             "page_number": 15,
-            "parent_id": "0a481656a26030a4dc2341d88c3580f8"
+            "parent_id": "153156859bb02e146fa2afb33e9180ae"
         }
     },
     {
@@ -8741,7 +8479,7 @@
                 "eng"
             ],
             "page_number": 15,
-            "parent_id": "0a481656a26030a4dc2341d88c3580f8"
+            "parent_id": "153156859bb02e146fa2afb33e9180ae"
         }
     },
     {
@@ -8778,7 +8516,7 @@
                 "eng"
             ],
             "page_number": 15,
-            "parent_id": "0a481656a26030a4dc2341d88c3580f8"
+            "parent_id": "153156859bb02e146fa2afb33e9180ae"
         }
     },
     {
@@ -8815,7 +8553,7 @@
                 "eng"
             ],
             "page_number": 15,
-            "parent_id": "0a481656a26030a4dc2341d88c3580f8"
+            "parent_id": "153156859bb02e146fa2afb33e9180ae"
         }
     },
     {
@@ -9468,24 +9206,23 @@
         "element_id": "17d2eda61550d627367b74239aefbf84",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.5900426506996155,
             "coordinates": {
                 "points": [
                     [
-                        1496.170166015625,
-                        2113.086181640625
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.170166015625,
-                        2157.448974609375
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.2435302734375,
-                        2157.448974609375
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.2435302734375,
-                        2113.086181640625
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -9685,44 +9422,8 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "d3e990dd3501b081fa98827c1465f2c1",
-        "text": "Adherence to York\u2019s Community Standards for Student Conduct on Campus is a given.",
-        "metadata": {
-            "detection_class_prob": 0.8495476245880127,
-            "coordinates": {
-                "points": [
-                    [
-                        250.34718322753906,
-                        774.3820190429688
-                    ],
-                    [
-                        250.34718322753906,
-                        807.301111111111
-                    ],
-                    [
-                        1455.2491455078125,
-                        807.301111111111
-                    ],
-                    [
-                        1455.2491455078125,
-                        774.3820190429688
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 1700,
-                "layout_height": 2200
-            },
-            "filetype": "application/pdf",
-            "languages": [
-                "eng"
-            ],
-            "page_number": 18
-        }
-    },
-    {
         "type": "Image",
-        "element_id": "bb57f93eb845dcaba3c996f1656eb19c",
+        "element_id": "99f410c8354796a4cd8bd7bbe25b997e",
         "text": ">\u00bb",
         "metadata": {
             "coordinates": {
@@ -9755,6 +9456,41 @@
             "page_number": 18,
             "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDq9euL7wJ4xfU45zcWOoyGSSFm5GTyPw7V0n/CydD/ALt1/wB+qzU8ITa940vr/WblJrW3l2wwITyOqg/hjOK7n+zbH/nyt/8Av0v+FZRUtbbHs4uph1GnGpHmmkrtaenTWy6n/9k=",
             "image_mime_type": "image/jpeg"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "ed22b1b9f40cbd95928dd033c64c2d4d",
+        "text": "Adherence to York's Community Standards for Student Conduct on Campus is a given.",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        301.0,
+                        777.0
+                    ],
+                    [
+                        301.0,
+                        807.0
+                    ],
+                    [
+                        1433.0,
+                        807.0
+                    ],
+                    [
+                        1433.0,
+                        777.0
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18
         }
     },
     {
@@ -10046,28 +9782,64 @@
         }
     },
     {
-        "type": "ListItem",
-        "element_id": "6fed87a64af4bd50f2b51272d77837b0",
-        "text": "Attend from a room free of distraction.",
+        "type": "Image",
+        "element_id": "bab78cba3a7a6dd22cacf278fb97b7e6",
+        "text": ">\u00bb",
         "metadata": {
-            "detection_class_prob": 0.8427844643592834,
             "coordinates": {
                 "points": [
                     [
-                        244.18487548828125,
-                        1425.969482421875
+                        250.0,
+                        1439.3058333333336
                     ],
                     [
-                        244.18487548828125,
-                        1460.1622222222222
+                        250.0,
+                        1453.3333333333335
                     ],
                     [
-                        826.0693333333334,
-                        1460.1622222222222
+                        259.30555555555554,
+                        1453.3333333333335
                     ],
                     [
-                        826.0693333333334,
-                        1425.969482421875
+                        259.30555555555554,
+                        1439.3058333333336
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 1700,
+                "layout_height": 2200
+            },
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAOAAkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDttS17WPB3jCWTUp5LrR72QtHkk+UCeijtiuq/4TXw7/0E4vyP+FcS+m3Hjnx7fQX9xssdNlZBEp5KhiOPrjmu6/4RDQP+gXB+v+NZR5ne2x7WMjhoRpqsnz2V+WyXlv1tvY//2Q==",
+            "image_mime_type": "image/jpeg"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "83d5b139afbddf6b19c6b68363bb64fe",
+        "text": "Attend from a room free of distraction.",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        301.0,
+                        1430.0
+                    ],
+                    [
+                        301.0,
+                        1453.0
+                    ],
+                    [
+                        807.0,
+                        1453.0
+                    ],
+                    [
+                        807.0,
+                        1430.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -10083,7 +9855,7 @@
     },
     {
         "type": "NarrativeText",
-        "element_id": "5057c4c19f3ee242f050a0185bd06f63",
+        "element_id": "4c4642eda4ac2879ce7aea7cecd8117e",
         "text": "Should unforeseen events preclude in-class lectures or tutorials (e.g. COVID, snowstorm, emergency), the class will be moved online with prior notification.",
         "metadata": {
             "detection_class_prob": 0.9238826632499695,
@@ -10114,12 +9886,13 @@
             "languages": [
                 "eng"
             ],
-            "page_number": 18
+            "page_number": 18,
+            "parent_id": "83d5b139afbddf6b19c6b68363bb64fe"
         }
     },
     {
         "type": "Title",
-        "element_id": "82e3e1941e0738e077d55c9c44efd051",
+        "element_id": "a73bc240a9e0e5cec1a036094a5fc0e2",
         "text": "Participation",
         "metadata": {
             "detection_class_prob": 0.7027189135551453,
@@ -10155,7 +9928,7 @@
     },
     {
         "type": "NarrativeText",
-        "element_id": "e3b36364aeb602be0261e0d065e57cbd",
+        "element_id": "eb2a8586e51c8ebd4680ee4a2147eddb",
         "text": "The course is built in a way that makes the readings the centrepiece of all activities. Pre-class quizzes ensure that readings were completed, tutorial presentations and discussions focus on the readings, lectures provide contextual and conceptual knowledge that helps to understand the readings and assignments are conceived in a way to delve deeper into the readings.",
         "metadata": {
             "detection_class_prob": 0.9395179152488708,
@@ -10187,32 +9960,31 @@
                 "eng"
             ],
             "page_number": 18,
-            "parent_id": "82e3e1941e0738e077d55c9c44efd051"
+            "parent_id": "a73bc240a9e0e5cec1a036094a5fc0e2"
         }
     },
     {
         "type": "Title",
-        "element_id": "f74e9eb91470a80e69ae173c91bb71d9",
+        "element_id": "daddc2611dad384846d7fa13288b0f9e",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.6260114908218384,
             "coordinates": {
                 "points": [
                     [
-                        1496.30224609375,
-                        2112.27294921875
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.30224609375,
-                        2157.93359375
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.3897705078125,
-                        2157.93359375
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.3897705078125,
-                        2112.27294921875
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -10260,7 +10032,7 @@
                 "eng"
             ],
             "page_number": 19,
-            "parent_id": "f74e9eb91470a80e69ae173c91bb71d9"
+            "parent_id": "daddc2611dad384846d7fa13288b0f9e"
         }
     },
     {
@@ -10297,7 +10069,7 @@
                 "eng"
             ],
             "page_number": 19,
-            "parent_id": "f74e9eb91470a80e69ae173c91bb71d9"
+            "parent_id": "daddc2611dad384846d7fa13288b0f9e"
         }
     },
     {
@@ -10668,24 +10440,23 @@
         "element_id": "c7aa04a04d2d8b1efa85485537c222bd",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.6628775596618652,
             "coordinates": {
                 "points": [
                     [
-                        1496.203125,
-                        2111.669921875
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.203125,
-                        2158.1845703125
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.214111328125,
-                        2158.1845703125
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.214111328125,
-                        2111.669921875
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",
@@ -11109,24 +10880,23 @@
         "element_id": "e8738761420e8bf2e69a12a405c02c54",
         "text": "YORKW",
         "metadata": {
-            "detection_class_prob": 0.667323887348175,
             "coordinates": {
                 "points": [
                     [
-                        1496.406005859375,
-                        2112.2451171875
+                        1496.0,
+                        2118.0
                     ],
                     [
-                        1496.406005859375,
-                        2157.89453125
+                        1496.0,
+                        2153.0
                     ],
                     [
-                        1653.412109375,
-                        2157.89453125
+                        1650.0,
+                        2153.0
                     ],
                     [
-                        1653.412109375,
-                        2112.2451171875
+                        1650.0,
+                        2118.0
                     ]
                 ],
                 "system": "PixelSpace",

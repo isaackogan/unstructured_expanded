@@ -1,6 +1,5 @@
 import json
 
-from unstructured_expanded.partition.docx import partition_docx
 from unstructured_expanded.partition.pptx.partition_pptx import partition_pptx
 
 elements = partition_pptx(
